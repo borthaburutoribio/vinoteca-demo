@@ -1,0 +1,25 @@
+id,nombre,bodega,varietal,tipo,region,precio,maridaje,destacado,stock,nota
+1,Alamos Malbec,Catena Zapata,Malbec,Tinto,Mendoza,12900,asado|pizza|picada,,si,El Malbec de todos los días: fruta roja y nada de vueltas.
+2,Trivento Reserve Malbec,Trivento,Malbec,Tinto,Mendoza,9800,asado|pizza,,si,Para la mesa del martes sin culpa.
+3,Norton Reserva Malbec,Norton,Malbec,Tinto,Luján de Cuyo,19500,asado|pastas|quesos,,si,Un año de barrica que se nota en el final.
+4,Luigi Bosca Malbec,Luigi Bosca,Malbec,Tinto,Luján de Cuyo,26000,asado|quesos,,si,Clásico de Luján: ciruela y especias.
+5,Rutini Cabernet Malbec,Rutini,Blend,Tinto,Valle de Uco,32000,asado|pastas,si,si,El regalo que nunca falla.
+6,Zuccardi Q Malbec,Zuccardi,Malbec,Tinto,Valle de Uco,38000,asado|quesos,,si,Fresco y de altura: violetas y tiza.
+7,El Enemigo Cabernet Franc,Aleanna,Cabernet Franc,Tinto,Gualtallary,45000,asado|pollo|quesos,,si,Herbal y largo. Para el que ya probó todo.
+8,Saint Felicien Cabernet Sauvignon,Catena Zapata,Cabernet Sauvignon,Tinto,Mendoza,22000,asado|pastas,,si,Pimiento asado y taninos firmes.
+9,Nieto Senetiner Bonarda,Nieto Senetiner,Bonarda,Tinto,Mendoza,11500,pizza|pastas|picada,,si,La uva más plantada después del Malbec. Jugosa.
+10,Salentein Reserve Pinot Noir,Salentein,Pinot Noir,Tinto,Valle de Uco,24000,pescado|pollo|sushi,,si,Liviano: va con salmón y con pollo.
+11,Colomé Estate Malbec,Colomé,Malbec,Tinto,Salta,34000,asado|quesos,,si,Viñedos a más de 2.300 metros.
+12,Humberto Canale Merlot,Humberto Canale,Merlot,Tinto,Río Negro,18000,pastas|pollo,,si,Patagonia: suave y fresco.
+13,El Esteco Don David Torrontés,El Esteco,Torrontés,Blanco,Cafayate,12000,sushi|pescado|picada,,si,Flores blancas y durazno. Bien frío.
+14,Susana Balbo Crios Torrontés,Susana Balbo,Torrontés,Blanco,Mendoza,14500,sushi|pescado,si,si,Aromático y seco. El blanco que más se lleva para regalar.
+15,Catena Chardonnay,Catena Zapata,Chardonnay,Blanco,Mendoza,23000,pescado|pollo|quesos,,si,Manteca y fruta blanca.
+16,Costa & Pampa Sauvignon Blanc,Trapiche,Sauvignon Blanc,Blanco,Chapadmalal,21000,pescado|sushi,,si,Viñedo a cinco kilómetros del mar.
+17,Crios Rosé of Malbec,Susana Balbo,Rosado,Rosado,Mendoza,13500,picada|pescado|pizza,,si,Para el patio y el primer calor.
+18,Chandon Extra Brut,Chandon,Chardonnay y Pinot Noir,Espumante,Mendoza,15500,picada|sushi|postre,,si,El de los brindis de fin de año.
+19,Norton Cosecha Especial Extra Brut,Norton,Chardonnay,Espumante,Luján de Cuyo,12500,picada|sushi,,si,Burbuja fina a buen precio.
+20,Baron B Brut Nature,Chandon,Chardonnay y Pinot Noir,Espumante,Valle de Uco,38000,sushi|pescado|postre,si,si,Método tradicional: pan tostado y limón.
+21,Rosell Boher Brut,Rosell Boher,Pinot Noir y Chardonnay,Espumante,Valle de Uco,40000,pescado|postre,,si,Dos años sobre borras.
+22,Angélica Zapata Malbec Alta,Catena Zapata,Malbec,Tinto,Mendoza,70000,asado|quesos,,si,Para una fecha que se recuerda.
+23,Luigi Bosca De Sangre Malbec,Luigi Bosca,Malbec,Tinto,Luján de Cuyo,35000,asado|pastas,,si,Intenso y redondo.
+24,Gran Enemigo Gualtallary,Aleanna,Cabernet Franc,Tinto,Gualtallary,110000,asado|quesos,,si,De los más premiados del país.
